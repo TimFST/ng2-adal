@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      "ng2-adal@1.0.1",
+      "C:\\devcode\\Uob.Portal\\Uob.Portal\\Uob.Portal.Web"
+    ]
+  ],
+  "_from": "ng2-adal@1.0.1",
+  "_id": "ng2-adal@1.0.1",
+  "_inCache": true,
+  "_location": "/ng2-adal",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ng2-adal-1.0.1.tgz_1496244070199_0.2948911839630455"
+  },
+  "_npmUser": {
+    "email": "sureshchahal@gmail.com",
+    "name": "sureshchahal"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {
+    "symbol-observable": "1.0.4"
+  },
+  "_requested": {
+    "name": "ng2-adal",
+    "raw": "ng2-adal@1.0.1",
+    "rawSpec": "1.0.1",
+    "scope": null,
+    "spec": "1.0.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng2-adal/-/ng2-adal-1.0.1.tgz",
+  "_shasum": "b6ce4150ae5486146ae1dc85de2387485c55e9ba",
+  "_shrinkwrap": null,
+  "_spec": "ng2-adal@1.0.1",
+  "_where": "C:\\devcode\\Uob.Portal\\Uob.Portal\\Uob.Portal.Web",
+  "author": {
+    "name": "Suresh Chahal"
+  },
+  "bugs": {
+    "url": "https://github.com/sureshchahal/angular2-adal/issues"
+  },
+  "dependencies": {
+    "@angular/common": "^4.1.0",
+    "@angular/compiler": "^4.1.0",
+    "@angular/core": "^4.1.0",
+    "@angular/http": "^4.1.0",
+    "@angular/platform-browser": "^4.1.0",
+    "@types/adal": "^1.0.22",
+    "adal-angular": "^1.0.14",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.3",
+    "zone.js": "^0.8.11"
+  },
+  "deprecated": "upgrade to v1.0.3 is strongly recommended",
+  "description": "Use Azure AD Library - ADAL in Angular 4 & 2. For Angular 4, use latest version 1.x.x. For Angular 2 use 0.3.1 version.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b6ce4150ae5486146ae1dc85de2387485c55e9ba",
+    "tarball": "https://registry.npmjs.org/ng2-adal/-/ng2-adal-1.0.1.tgz"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "homepage": "https://github.com/sureshchahal/angular2-adal#readme",
+  "installable": true,
+  "keywords": [
+    "ad",
+    "adal",
+    "adal-angular2",
+    "adal-angular4",
+    "adal-ng2",
+    "angular2",
+    "angular2-adal",
+    "angular4",
+    "angular4-adal",
+    "azure",
+    "ng2",
+    "ng2-adal",
+    "ng4",
+    "ng4-adal"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "sureshchahal",
+      "email": "sureshchahal@gmail.com"
+    }
+  ],
+  "name": "ng2-adal",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sureshchahal/angular2-adal.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}
